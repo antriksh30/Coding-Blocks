@@ -17,7 +17,7 @@ Constraints:
 */
 
 /*   
-         Runtime Error(Time Complexity)
+         Runtime Error(Stack Overflow)
 class Solution {
 public:
     int countDigitOne(int n) {
